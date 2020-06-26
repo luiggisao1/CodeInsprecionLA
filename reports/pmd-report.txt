@@ -1,0 +1,4 @@
+src/main/java/labcodeinspection/Email.java:7:	RedundantFieldInitializer: Avoid using redundant field initializer for 'password'
+src/main/java/labcodeinspection/Email.java:7:	RedundantFieldInitializer: Avoid using redundant field initializer for 'password'
+src/main/java/labcodeinspection/Email.java:23:	SwitchStmtsShouldHaveDefault: Switch statements should have a default label
+src/main/java/labcodeinspection/Email.java:23:	SwitchStmtsShouldHaveDefault: Switch statements should have a default label
